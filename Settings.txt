@@ -1,0 +1,3 @@
+Copies 2
+Parts 2
+Size 1
